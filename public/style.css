@@ -1,0 +1,15 @@
+.btn{
+    background:white;
+    color: black;
+    padding:9px 12px;
+    border-radius:0px;
+    border:1px solid black;
+    margin:5px;
+ }
+ .btn:hover{
+     background:lightgrey;
+ }
+
+ .inputText{
+     padding:9px;
+ }
